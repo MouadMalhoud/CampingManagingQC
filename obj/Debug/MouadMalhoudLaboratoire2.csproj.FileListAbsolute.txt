@@ -1,0 +1,11 @@
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\bin\Debug\MouadMalhoudLaboratoire2.exe.config
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\bin\Debug\MouadMalhoudLaboratoire2.exe
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\bin\Debug\MouadMalhoudLaboratoire2.pdb
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.csproj.AssemblyReference.cache
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.Properties.Resources.resources
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.csproj.GenerateResource.cache
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.csproj.CoreCompileInputs.cache
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.exe
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.pdb
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.FrmAccueil.resources
+C:\Users\Mouad\source\repos\MouadMalhoudLaboratoire2\obj\Debug\MouadMalhoudLaboratoire2.Form2.resources
